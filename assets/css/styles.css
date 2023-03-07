@@ -114,6 +114,11 @@ body {
   color: var(--text-color);
 }
 
+.btn-pesan {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 h1,
 h2,
 h3,
